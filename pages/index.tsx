@@ -55,7 +55,7 @@ const Home: NextPage = () => {
           )}
           {!!connected && (
             <>
-              <ProductsCollection category="Emojis" products={products} />
+              <ProductsCollection category="NFTs" products={products} />
               <ProductsCollection category="Goods" products={[]} />
             </>
           )}
