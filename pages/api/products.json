@@ -4,7 +4,7 @@
         "price": "0.058",
         "description": "$GLD Token gives customers the benefits of actual physical ownership of specific gold bars with the speed and mobility of a digital asset.",
         "image_url": "https://i.imgur.com/7gQcs9Z.jpg",
-        "type": "video",
+        "type": "image",
         "filename": "1-stream-gold-token.jpg",
         "hash": "QmZ2kNpF2WZxwRbv6a2SSMvpUrLQywYNBVnetV2De4CgCq"
     },
@@ -15,7 +15,7 @@
         "description": "$GLD Token gives customers the benefits of actual physical ownership of specific gold bars with the speed and mobility of a digital asset.",
         "image_url": "https://i.imgur.com/7gQcs9Z.jpg",
         "type": "image",
-        "filename": "500-stream-gold-tokens.jpg",
+        "filename": "1-stream-gold-token.jpg",
         "hash": "QmP7MQdBW8h8aG6sEiwyQCzdt9JwzDneu6rS56dGiqgs7c"
     },
     {
@@ -25,7 +25,7 @@
         "description": "$GLD Token gives customers the benefits of actual physical ownership of specific gold bars with the speed and mobility of a digital asset.",
         "image_url": "stream-gold-token.jpg",
         "type": "image",
-        "filename": "3000-stream-gold-tokens.jpg",
+        "filename": "1-stream-gold-token.jpg",
         "hash": "QmcrVpuCDjgfDmGjUTpw9tMTu7hyMWAv7kAm9kiLkYMya8"
     },
     {
@@ -35,7 +35,7 @@
         "description": "$GLD Token gives customers the benefits of actual physical ownership of specific gold bars with the speed and mobility of a digital asset.",
         "image_url": "stream-gold-tokens.jpg",
         "type": "image",
-        "filename": "5000-stream-gold-tokens.jpg",
+        "filename": "1-stream-gold-token.jpg",
         "hash": "QmSpz3Jfxey33tKbw8CmWuTphj3Gg2MZFaUFYSeKwmxTgg"
     }
 ]

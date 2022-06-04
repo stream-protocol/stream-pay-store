@@ -1,7 +1,7 @@
 {
   "/_app": "pages/_app.js",
-  "/_error": "pages/_error.js",
   "/api/addProduct": "pages/api/addProduct.js",
+  "/_error": "pages/_error.js",
   "/api/createTransaction": "pages/api/createTransaction.js",
   "/api/fetchItem": "pages/api/fetchItem.js",
   "/api/fetchProducts": "pages/api/fetchProducts.js",
