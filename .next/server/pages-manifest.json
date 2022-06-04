@@ -1,0 +1,13 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/api/addProduct": "pages/api/addProduct.js",
+  "/api/createTransaction": "pages/api/createTransaction.js",
+  "/api/fetchItem": "pages/api/fetchItem.js",
+  "/api/fetchProducts": "pages/api/fetchProducts.js",
+  "/api/hello": "pages/api/hello.js",
+  "/api/orders": "pages/api/orders.js",
+  "/": "pages/index.html",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}

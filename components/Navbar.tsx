@@ -9,10 +9,10 @@ export const Navbar = () => {
       <div className="max-w-screen-xl px-4 py-8 mx-auto sm:py-12 sm:px-6 lg:px-8">
         <div className="sm:justify-between sm:items-center sm:flex">
           <div className="text-center sm:text-left">
-            <h1 className="text-2xl font-bold sm:text-3xl">Solana Pay Store</h1>
+            <h1 className="text-2xl font-bold sm:text-3xl">StreamPay Store</h1>
 
             <p className="mt-1.5 text-sm text-gray-500">
-              Let's buy something! 🎉
+              Tokenizing Physical Gold
             </p>
           </div>
 
